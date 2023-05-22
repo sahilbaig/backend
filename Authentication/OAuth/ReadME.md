@@ -1,3 +1,3 @@
-this app uses Oauth using PassportJS 
+this app uses Oauth using PassportJS
 
 Work in progress.
